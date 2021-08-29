@@ -7,8 +7,8 @@ TODOs.md
 
 deploy
 .idea
-docs
 package.json
 yarn.lock
 yarn-error.log
 .editorconfig
+src
