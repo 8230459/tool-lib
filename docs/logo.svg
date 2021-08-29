@@ -1,0 +1,47 @@
+<svg data-v-5008d405="" version="1.0" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+     width="84px" height="25px" viewBox="110 88 120 55" preserveAspectRatio="xMidYMid meet"
+     color-interpolation-filters="sRGB" class="el-tooltip" style="margin: auto;">
+    <rect data-v-5008d405="" x="0" y="0" width="100%" height="100%" fill="#feffff" fill-opacity="0"
+          class="background"></rect> <!---->
+    <g data-v-5008d405="" fill="#333" class="iconlinesvg-g iconlinesvg"
+       transform="translate(79.15339660644531,89.67559432983398)">
+        <g class="tp-name" transform="translate(0,0)">
+            <g transform="translate(0, 0)">
+                <g class="imagesvg">
+                    <rect fill="#333" fill-opacity="0" stroke-width="2" x="0" y="0" width="59.36736925545384"
+                          height="52.72881355932203" class="image-rect"></rect>
+                    <svg x="0" y="0" width="59.36736925545384" height="52.72881355932203" filtersec="colorsb7553392122"
+                         class="image-svg-svg primary">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 112.59 100">
+                            <path fill="#333"
+                                  d="M17.04 68.52h22.59l16.3-28.89L90.74 100h21.85L55.93 0 17.04 68.52z"></path>
+                            <path fill="#26c768" d="M57.41 68.89L74.81 100H0l10.37-18.15H50l7.41-12.96z"></path>
+                        </svg>
+                    </svg> <!---->
+                </g>
+            </g>
+            <g transform="translate(63, 4.029661016949152)">
+                <g data-gra="path-name" fill="#333">
+                    <path
+                    d="M11.77-43.94L33.86-8.40L33.86-43.94L39.62-43.94L39.62 0L32.90 0L10.56-35.54L10.32-35.54L10.32 0L4.56 0L4.56-43.94L11.77-43.94Z"
+                    transform="translate(-4.562146892655368, 43.940677966101696)"></path>
+                </g>
+            </g>
+            <g transform="translate(102.05649717514123, 4.029661016949152)">
+                <g data-gra="path-name" fill="#333">
+                    <path
+                    d="M22.57 0L4.80 0L4.80-43.94L22.81-43.94Q40.58-42.98 41.30-22.57L41.30-22.57Q40.34-0.48 22.57 0L22.57 0ZM21.85-39.14L10.81-39.14L10.81-5.04L22.33-5.04Q34.82-5.76 35.30-22.09L35.30-22.09Q35.06-38.66 21.85-39.14L21.85-39.14Z"
+                    transform="translate(-4.80225988700565, 43.940677966101696)"></path>
+                </g>
+            </g>
+            <g transform="translate(142.55367231638417, 4.029661016949152)">
+                <g data-gra="path-name" fill="#333">
+                    <path
+                    d="M40.10-43.94L23.53-17.77L23.53 0L17.53 0L17.53-17.77L0.96-43.94L7.92-43.94L20.41-22.81L33.14-43.94L40.10-43.94Z"
+                    transform="translate(-0.9604519774011299, 43.940677966101696)"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+    <defs v-gra="od"></defs>
+</svg>
